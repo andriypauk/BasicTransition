@@ -1,0 +1,7 @@
+C:\Users\Andriy\AndroidStudioProjects\BasicTransition\Application\build\intermediates\classes\debug
+C:\Users\Andriy\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-865ca02b61d8652c015be2f3d4a38a33b59aa116.jar
+C:\Users\Andriy\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-9a94c5048614267f553e1a374a43ae484bc56019.jar
+C:\Users\Andriy\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\classes-53ac4212980084ea7bae12461be75015bd680958.jar
+C:\Users\Andriy\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\classes-e90b91676537aa1fcdaf1cadaacddd33204ebf18.jar
+C:\Users\Andriy\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-4d2401fde1caad03deeb23cbab952fba71196e01.jar
+C:\Users\Andriy\AndroidStudioProjects\BasicTransition\Application\build\intermediates\pre-dexed\debug\classes-20d9e78f5b8bbf16e099950fae4eca9acf9fb89a.jar
